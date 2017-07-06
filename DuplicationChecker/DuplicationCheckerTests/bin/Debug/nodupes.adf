@@ -1,0 +1,15 @@
+[Drive Parameters Section]
+Drive_Control=1
+Drive_Control_1=0
+External_Analog_Temperature_Disable_Level=100
+External_Analog_Temperature_Enable_Level=95
+Thermistor_Disable_Resistance=65535
+Thermistor_Enable_Resistance=65535
+Thermistor_Configuration_Option=0
+Start_Up_Sequence_Control=1
+Start_Up_PhaseDetect_Config=0
+Delay_After_Applying_Brakes=0
+Delay_Before_Disengaging_Brakes=0
+Quick_Stop_Deacceleration_Limit=6666666.66666667
+Quick_Stop_Deacceleration_Limit_Velocity_Mode=6666666.66666667
+Stop_Jerk_Limit_Torque_Mode=0.5

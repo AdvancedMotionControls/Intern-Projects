@@ -1,0 +1,18 @@
+
+[Drive Configuration Parameters]
+Config_Version=2560 2560 0 0
+Rated_Peak_Current=300
+Rated_Continuous_Current=150
+Bus_Over_Voltage=8500
+Bus_Under_Voltage=2300
+Max_Switching_Freq=10
+Rated_Shunt_Power=100
+Internal_Shunt_Resistance=60
+Internal_Shunt_Inductance=0
+Max_Shunt_Freq=5
+Internal_Shunt_Max_Cont_Current=15
+Shunt_Configuration=3
+Controlboard=CR362EEB
+Powerboard=PLA30A80D
+Max_Switching_Freq=10
+Rated_Shunt_Power

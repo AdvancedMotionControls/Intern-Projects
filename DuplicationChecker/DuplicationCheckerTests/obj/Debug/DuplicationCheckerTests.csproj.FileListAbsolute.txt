@@ -1,0 +1,8 @@
+C:\Users\kmadland\Documents\Visual Studio 2015\Projects\DuplicationChecker\DuplicationCheckerTests\obj\Debug\DuplicationCheckerTests.csprojResolveAssemblyReference.cache
+C:\Users\kmadland\Documents\Visual Studio 2015\Projects\DuplicationChecker\DuplicationCheckerTests\bin\Debug\DuplicationCheckerTests.dll
+C:\Users\kmadland\Documents\Visual Studio 2015\Projects\DuplicationChecker\DuplicationCheckerTests\bin\Debug\DuplicationCheckerTests.pdb
+C:\Users\kmadland\Documents\Visual Studio 2015\Projects\DuplicationChecker\DuplicationCheckerTests\bin\Debug\DuplicationChecker.exe
+C:\Users\kmadland\Documents\Visual Studio 2015\Projects\DuplicationChecker\DuplicationCheckerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\kmadland\Documents\Visual Studio 2015\Projects\DuplicationChecker\DuplicationCheckerTests\bin\Debug\DuplicationChecker.pdb
+C:\Users\kmadland\Documents\Visual Studio 2015\Projects\DuplicationChecker\DuplicationCheckerTests\obj\Debug\DuplicationCheckerTests.dll
+C:\Users\kmadland\Documents\Visual Studio 2015\Projects\DuplicationChecker\DuplicationCheckerTests\obj\Debug\DuplicationCheckerTests.pdb

@@ -1,0 +1,6 @@
+c:\Users\kmadland\Documents\Visual Studio 2015\Projects\DuplicationChecker\DuplicationChecker\bin\Debug\DuplicationChecker.exe.config
+c:\Users\kmadland\Documents\Visual Studio 2015\Projects\DuplicationChecker\DuplicationChecker\bin\Debug\DuplicationChecker.exe
+c:\Users\kmadland\Documents\Visual Studio 2015\Projects\DuplicationChecker\DuplicationChecker\bin\Debug\DuplicationChecker.pdb
+c:\Users\kmadland\Documents\Visual Studio 2015\Projects\DuplicationChecker\DuplicationChecker\obj\Debug\DuplicationChecker.exe
+c:\Users\kmadland\Documents\Visual Studio 2015\Projects\DuplicationChecker\DuplicationChecker\obj\Debug\DuplicationChecker.pdb
+C:\Users\kmadland\Documents\Visual Studio 2015\Projects\DuplicationChecker\DuplicationChecker\obj\Debug\DuplicationChecker.csprojResolveAssemblyReference.cache
