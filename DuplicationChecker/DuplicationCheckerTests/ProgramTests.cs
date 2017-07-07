@@ -132,11 +132,5 @@ namespace DuplicationChecker.Tests
             if (Program.validExtension("double.adf") == false) Assert.Fail();
         }
 
-        [TestMethod()]
-        public void new_test()
-        {
-            if (0 == 1) Assert.Fail();
-        }
-
     }
 }
