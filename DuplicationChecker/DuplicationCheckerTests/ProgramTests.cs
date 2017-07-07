@@ -58,6 +58,8 @@ namespace DuplicationChecker.Tests
             if (!output.Contains("Max_Switching_Freq")) Assert.Fail();
         }
 
+        // here is a change 
+
         [TestMethod()]
         public void processFileTest_2dupes()
         {
@@ -130,6 +132,11 @@ namespace DuplicationChecker.Tests
             if (Program.validExtension("double.adf") == false) Assert.Fail();
         }
 
+        [TestMethod()]
+        public void new_test()
+        {
+            if (0 == 1) Assert.Fail();
+        }
 
     }
 }
